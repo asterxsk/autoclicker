@@ -27,9 +27,8 @@ Visit the official website: [https://sites.google.com/view/asterxsk/home](https:
 
 ### Download
 
-You can download the latest version from the **[Downloads Page](https://sites.google.com/view/asterxsk/downloads)** on our website.
+* **[Download the latest release here](https://github.com/asterxsk/autoclicker/releases/tag/Application)**
 
-* **[Download the latest release here](link-to-your-github-release-asset.exe)**
 
 
 
