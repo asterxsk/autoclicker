@@ -21,13 +21,14 @@ Visit the official website: [https://sites.google.com/view/asterxsk/home](https:
 ### How to Use
 
 1.  Download the latest version from the [Downloads](#download) section.
-2.  Run the application. No installation is needed.
+2.  Run the installer and open up Autoclicker.
 3.  Set your desired click interval, hotkey, and other options in the app.
 4.  Press your hotkey to start or stop clicking.
 
 ### Download
 
 * **[Download the latest release here](https://github.com/asterxsk/autoclicker/releases/tag/Application)**
+
 
 
 
