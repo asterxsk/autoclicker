@@ -30,7 +30,7 @@ This is the official GitHub repository for the Autoclicker by asterxsk project.
 
 ### How to Use
 
-1.  Download the latest version from the [Downloads](#download) section.
+1.  Download the latest version from the [Downloads](https://github.com/asterxsk/autoclicker/releases) section.
 2.  Run the installer and open up Autoclicker.
 3.  Set your desired click interval, hotkey, and other options in the app.
 4.  Press your hotkey to start or stop clicking.
@@ -38,4 +38,5 @@ This is the official GitHub repository for the Autoclicker by asterxsk project.
 ### Download
 
 * **[Download the latest release here](https://github.com/asterxsk/autoclicker/releases/tag/Application)**
+
 
