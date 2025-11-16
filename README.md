@@ -1,4 +1,4 @@
-![img](main.jpg)
+![img](ui/img.jpg)
 
 # Autoclicker by asterxsk
 
@@ -31,4 +31,5 @@ Visit the official website: [https://sites.google.com/view/asterxsk/home](https:
 You can download the latest version from the **[Downloads Page](https://sites.google.com/view/asterxsk/downloads)** on our website.
 
 * **[Download the latest release here](link-to-your-github-release-asset.exe)**
+
 
