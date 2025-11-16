@@ -17,7 +17,7 @@ This is the official GitHub repository for the Autoclicker by asterxsk project.
 [![](https://visitcount.itsvg.in/api?id=asterxsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-Visit the official website: [](https://sites.google.com/view/asterxsk/home)
+### Visit the official website: [![Website](ui/site.png)](https://sites.google.com/view/asterxsk/home)
 
 ### Features
 
@@ -38,3 +38,4 @@ Visit the official website: [](https://sites.google.com/view/asterxsk/home)
 ### Download
 
 * **[Download the latest release here](https://github.com/asterxsk/autoclicker/releases/tag/Application)**
+
