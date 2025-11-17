@@ -1,7 +1,7 @@
 # Autoclicker by asterxsk
 
 > The most lightweight autoclicker ever.
-![img](ui/img.jpg)
+> Completely open-source
 
 This is the official GitHub repository for the Autoclicker by asterxsk project.
 
@@ -22,6 +22,7 @@ This is the official GitHub repository for the Autoclicker by asterxsk project.
 ### Features
 
 * **Safe:** No administrator permissions are required to install, run, or update.
+* **Open-source:** All files used are in the assets folder (made with pyhton). You are free to contibute.
 * **Lightweight:** Uses minimal system resources.
 * **Compatible:** Works natively with your Windows theme.
 * **Minimal UI:** A clean and functional user interface.
@@ -38,6 +39,7 @@ This is the official GitHub repository for the Autoclicker by asterxsk project.
 ### Download
 
 * **[Download the latest release here](https://github.com/asterxsk/autoclicker/releases/tag/Application)**
+
 
 
 
