@@ -13,7 +13,6 @@ This is the official GitHub repository for the Autoclicker by asterxsk project.
 ---
 [![](https://visitcount.itsvg.in/api?id=asterxsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ### Visit the official website: [![Website](ui/site.png)](https://sites.google.com/view/asterxsk/home)
 
 ### Features
@@ -32,12 +31,3 @@ This is the official GitHub repository for the Autoclicker by asterxsk project.
 2.  Run the installer and open up Autoclicker.
 3.  Set your desired click interval, hotkey, and other options in the app.
 4.  Press your hotkey to start or stop clicking.
-
-### Download
-
-* **[Download the latest release here](https://github.com/asterxsk/autoclicker/releases/tag/Application)**
-
-
-
-
-
